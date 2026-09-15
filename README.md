@@ -399,7 +399,5 @@ Useful issue details include:
 
 ## License
 
-No license is included automatically with this repository.
-
-If you want others to be able to freely use, modify, and redistribute the script, consider adding an open-source license such as the **MIT License**.
+No license is included. You can freely use, modify, and redistribute the script.
 
