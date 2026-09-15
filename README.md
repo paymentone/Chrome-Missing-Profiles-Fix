@@ -399,5 +399,5 @@ Useful issue details include:
 
 ## License
 
-No license is included. You can freely use, modify, and redistribute the script.
+You can freely use, modify, and redistribute the script.
 
